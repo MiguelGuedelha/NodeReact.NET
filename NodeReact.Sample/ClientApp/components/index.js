@@ -1,11 +1,11 @@
-import HelloWorld from "./HelloWorld";
-import RootComponent from "./RootComponent";
-import App from "./App";
+import HelloWorld from './HelloWorld';
+import LoremIpsum from './LoremIpsum';
+import RootComponent from './RootComponent';
 
 export const components = {
   HelloWorld,
   RootComponent,
-  App,
+  LoremIpsum
 };
 
 try {
